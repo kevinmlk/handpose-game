@@ -1,3 +1,5 @@
+'use strict';
+
 let handpose;
 let video;
 let hands = [];
